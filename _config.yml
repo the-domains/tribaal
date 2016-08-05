@@ -1,0 +1,14 @@
+layout_spectrum: 0.6561910407617688
+typography_spectrum: 0.1266575895715505
+color:
+  brandStrength: 0.6430622437037528
+  lightness: 0.24702968960627913
+  saturation: 0.029300654772669077
+  rhythmicContrast: 0.2906314879655838
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Tribaal
