@@ -1,4 +1,3 @@
-layout_spectrum: 0.6561910407617688
 typography_spectrum: 0.1266575895715505
 color:
   brandStrength: 0.6430622437037528
@@ -11,5 +10,7 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.6561910407617688
 name: Tribaal
+title: You Want More
 description: Only great tribes make great teams
